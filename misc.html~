@@ -28,13 +28,12 @@
 			<article id="top" class="wrapper style1">
 				<div class="container">
 					<div class="row">
-						<div class="col-4 col-5-large col-12-medium">
-							<span class="image featured"><img src="images/pic00.jpg" alt="" /></span>
-						</div>
 						<div class="col-8 col-7-large col-12-medium">
 							<header>
 								<ul>
-	<li>Cats</li>
+	<li>I gave a presentation at Boston College's Undergraduate Math Colloquium on Knots and Curve Singularities: <a href="/slides.pdf" target="_blank">
+[Slides]</a>, <a href="/slides.pdf" target="_blank">
+[Website]</a></li>
 								</ul>	
 							</header>
 						</div>
